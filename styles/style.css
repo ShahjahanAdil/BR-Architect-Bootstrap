@@ -1,0 +1,17 @@
+#Image {
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+}
+
+button {
+    width: 100%;
+}
+
+#contact {
+    width: 100%;
+}
+
+::placeholder {
+    font-size: x-small;
+}
